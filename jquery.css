@@ -9,3 +9,13 @@ p {
   p:hover {
     background: yellow;
   }
+
+  #draggable {
+    text-align: center;
+    color: white;
+    background-color: blue;
+    width: 150px; 
+    height: 150px; 
+    padding: 0.5em;
+    margin: 0 auto;
+  }

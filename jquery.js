@@ -7,3 +7,15 @@ $( "#second" ).click(function() {
 $( "#third" ).click(function() {
   $( this ).hide();
 });
+
+$(function() {
+    $( "#draggable" ).draggable();
+  });
+
+  $(function() {
+    $( "#accordion" ).accordion();
+  });
+
+  $(function() {
+    $( "#datepicker" ).datepicker();
+  });
