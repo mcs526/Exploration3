@@ -1,0 +1,11 @@
+p {
+    color: red;
+    width: 300px;
+    margin: 0 auto;
+    cursor: pointer;
+    text-align: center;
+    font-size: 20pt;
+  }
+  p:hover {
+    background: yellow;
+  }
